@@ -1,7 +1,7 @@
 package main
 
 import (
-	_"fmt"
+	_ "fmt"
 	_ "github.com/xuyu/goredis"
 )
 
