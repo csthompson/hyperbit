@@ -35,4 +35,4 @@ func getIndices(c *cfg) []string {
 		r = append(r, k)
 	}
 	return r
-} 
+}
